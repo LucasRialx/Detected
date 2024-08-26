@@ -18,11 +18,6 @@ Para instalar a biblioteca `ultralytics`, execute o seguinte comando:
 ```bash
 pip install ultralytics
 
-
-Claro! Aqui está o arquivo README.md formatado para facilitar a cópia:
-
-markdown
-Copiar código
 # YOLO Object Detection
 
 Este projeto demonstra o uso da biblioteca `ultralytics` para identificar objetos usando o modelo YOLO (You Only Look Once).
@@ -50,4 +45,4 @@ O código a seguir carrega o modelo YOLOv8 e o utiliza para fazer previsões em 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a Licença MIT.
