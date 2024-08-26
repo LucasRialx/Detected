@@ -34,8 +34,9 @@ O código neste repositório utiliza a biblioteca `ultralytics` para carregar e 
 
 Para instalar a biblioteca `ultralytics`, execute o seguinte comando:
 
-```bash
+```
 pip install ultralytics
+```
 
 ## Uso
 O código a seguir carrega o modelo YOLOv8 e o utiliza para fazer previsões em uma fonte de vídeo (por exemplo, uma webcam):
