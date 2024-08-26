@@ -15,7 +15,6 @@ O código neste repositório utiliza a biblioteca `ultralytics` para carregar e 
 
 Para instalar a biblioteca `ultralytics`, execute o seguinte comando:
 
-```bash
 pip install ultralytics
 
 # YOLO Object Detection
